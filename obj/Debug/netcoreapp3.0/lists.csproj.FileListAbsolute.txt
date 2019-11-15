@@ -1,0 +1,11 @@
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/bin/Debug/netcoreapp3.0/lists
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.deps.json
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.json
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.dev.json
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.dll
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.pdb
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.csprojAssemblyReference.cache
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfoInputs.cache
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfo.cs
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.dll
+/Users/elizabethfortunato/workspace/C_sharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.pdb
